@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jrmydix
-- 🌱 I’m currently learning web developpement
-- 📫 How to reach me : dix.pro@pm.me
+- 👋 Hi, I’m @jrmydix, a 20 years old french student
+- 🌱 I’m currently learning web development
+- 📫 How to contact me : dix.pro@pm.me
 
 <!---
 jrmydix/jrmydix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
