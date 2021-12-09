@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jrmydix, a 20 years old french student
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m @jrmydix, a 20 years old student
+- 🌱 I’m currently learning web development and planning to learn a bit of C# on my own
 - 📫 How to contact me : dix.pro@pm.me
 
 <!---
