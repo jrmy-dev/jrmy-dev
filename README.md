@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jrmydix, a 20 years old student
-- 🌱 I’m currently learning web development and planning to learn a bit of C# on my own
+- 🌱 I’m currently learning web development and thinking about specializing in Symfony framework after
+- 🔗 My Symfony & JavaScript based website : [jeremy-cusinmermet.xyz](https://jeremy-cusinmermet.xyz)
 - 📫 How to contact me : dix.pro@pm.me
 
 <!---
