@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Jérémy 🙂</h1>
-<h4 align="center">I'm a 20 years old junior web developer based in France.</h4>
+<h4 align="center">I'm a 21 years old junior web developer based in France.</h4>
 
 <br><br><h2 align="center">Contact:</h2><br>
 
@@ -23,8 +23,7 @@
   <img src="https://img.shields.io/badge/-HTML-ff6600?style=for-the-badge&logo=html5&logoColor=ff6600&labelColor=282828">
   
   <br><img src="https://img.shields.io/badge/-CSS-264ee4?style=for-the-badge&logo=css3&logoColor=264ee4&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Sass-bf4080?style=for-the-badge&logo=sass&logoColor=bf4080&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Bootstrap-860afb?style=for-the-badge&logo=bootstrap&logoColor=860afb&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Sass-bf4080?style=for-the-badge&logo=sass&logoColor=bf4080&labelColor=282828">
 
 <br><img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React-5cd9ff?style=for-the-badge&logo=react&logoColor=5cd9ff&labelColor=282828">
